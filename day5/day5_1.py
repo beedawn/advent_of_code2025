@@ -1,5 +1,4 @@
 import csv
-from turtledemo.penrose import start
 
 
 class DigitRange():
